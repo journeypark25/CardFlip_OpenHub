@@ -10,3 +10,14 @@ Download from Google Play!
 
 Download from AppStore!
 :https://apps.apple.com/app/id6466261823
+
+
+
+Some codes make an amazing change!
+
+public string cardflip;
+
+cardflip = "Global Released";
+
+System.out.println(cardflip);
+
